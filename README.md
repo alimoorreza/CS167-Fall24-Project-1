@@ -1,4 +1,4 @@
-# CS 167 Project 1: 
+# CS 167 Project 1
 
 ## Project Description: 
 
